@@ -1,6 +1,6 @@
 # French idioms
 
-French idioms is a javascript script that will display multiples french expression and their meaning.
+French idioms is a javascript script that will randomly create a message based on multiple french idioms.
 This project purpose is to showcase my javascript skills for a Codecademy course.
 
 ## Contributing
